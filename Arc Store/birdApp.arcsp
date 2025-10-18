@@ -1,0 +1,23 @@
+{
+    "appId":"birdApp",
+    "components":[
+      {
+        "type":"label",
+        "text":"About birds",
+        "x":"-100",
+        "y":"100"
+      },
+      {
+        "type":"label",
+        "text":"they do tweets",
+        "x":"0",
+        "y":"0"
+      },
+      {
+        "type":"label",
+        "text":"yay",
+        "x":"0",
+        "y":"-50"
+      }
+    ]
+}
